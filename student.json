@@ -1,0 +1,7 @@
+{
+  "name": "Sanjay",
+  "age": 20,
+  "gender": "male",
+  "isIndian": true,
+  "hobbies": ["singing", "dancing"]
+}
